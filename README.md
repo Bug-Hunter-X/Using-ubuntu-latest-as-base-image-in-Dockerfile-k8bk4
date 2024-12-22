@@ -1,0 +1,1 @@
+This example demonstrates the problem of using `ubuntu:latest` as a base image in a Dockerfile.  Using a less generic image can significantly reduce image size and improve build times and security. The solution shows how to specify a smaller, more appropriate base image.
